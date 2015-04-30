@@ -11,6 +11,7 @@
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 {
     int a;
+    int c;
 }
 
 @end
