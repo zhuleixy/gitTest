@@ -13,5 +13,6 @@
     int a;
 }
 
+-(void)fun;
 @end
 
