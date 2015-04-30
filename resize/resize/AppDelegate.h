@@ -10,11 +10,7 @@
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 {
-    int a;
-    int c;
-    int b;
-    int d;
-    int e;
+
 }
 
 @end
