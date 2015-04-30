@@ -16,6 +16,7 @@
 @implementation AppDelegate
 {
     NSObject *obj;
+    NSObject *obj2;
 }
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     // Insert code here to initialize your application
