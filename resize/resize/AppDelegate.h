@@ -14,6 +14,7 @@
     int c;
     int b;
     int d;
+    int e;
 }
 
 @end
