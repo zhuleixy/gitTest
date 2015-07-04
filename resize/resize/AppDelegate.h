@@ -14,5 +14,6 @@
 }
 
 -(void)fun;
+-(void)fun2;
 @end
 
