@@ -12,7 +12,7 @@
 {
     int a;
     int b;
-    int c;
+    int e;
 }
 
 -(void)fun;
