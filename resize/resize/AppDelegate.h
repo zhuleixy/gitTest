@@ -12,7 +12,7 @@
 {
     int a;
     int b;
-    int e;
+    int g;
 
 }
 
