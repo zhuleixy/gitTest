@@ -11,6 +11,8 @@
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 {
     int a;
+    int b;
+    int c;
 }
 
 -(void)fun;
